@@ -365,6 +365,16 @@ Homepage: https://www.stjuderesearch.org/site/lab/zhang
 
 Homepage: https://www.nature.com/articles/s41588-019-0456-1#code-availability
 
+###  University of Michigan
+
+Xiang Zhou
+
+主要方向：Methods for Genome-wide Association Studies，Methods for Functional Genomics Sequencing Studies
+
+主要成果：Genome-wide efficient mixed-model analysis for association studies
+
+Homepage：http://www.xzlab.org/index.html
+
 ## 三：RNA组学
 
 ### 中国科学院大学生物物理所
