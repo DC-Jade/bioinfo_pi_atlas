@@ -669,6 +669,16 @@ Homepage: https://sfb.kaust.edu.sa/Pages/Home.aspx
 
 Homepage: https://liyu95.com/
 
+### 清华大学
+
+Jianyang (Michael) Zeng
+
+主要方向：AI for drug discovery and drug repositioning，Three-dimensional genome structure and gene regulation，Computational method development in Cryo-EM
+
+主要成果：[DTINet](https://github.com/luoyunan/DTINet) , [ROSE](https://github.com/zhangsaithu/rose)
+
+Homepage：http://group.iiis.tsinghua.edu.cn/~compbio/people201801.html
+
 ## 六：计算神经生物学
 
 ### The Center for Brains, Minds and Machines (CBMM) of MIT
