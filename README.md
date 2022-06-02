@@ -281,7 +281,7 @@ Homepage: http://sklbc.sysu.edu.cn/teacher/202
 
 Homepage: https://sls.westlake.edu.cn/Our_Faculty/202007/t20200717_6659.shtml
 
-### The University of Texas MD Anderson Cancer Center
+### The University of Texas
 
 Nicholas Navin
 
@@ -290,6 +290,14 @@ Nicholas Navin
 主要成果：Tumour evolution inferred by single-cell sequencing（Nature 2011）
 
 Homepage: https://faculty.mdanderson.org/profiles/nicholas_navin.html
+
+Momiao Xiong
+
+主要方向：Genome-Wide Causation Studies(GWCS)
+
+主要成果：[Genome-Wide Causation Studies of Complex Diseases](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=q1VY28gAAAAJ&sortby=pubdate&citation_for_view=q1VY28gAAAAJ:ubry08Y2EpUC)
+
+Homepage：[google scholar](https://scholar.google.com/citations?hl=en&user=q1VY28gAAAAJ&view_op=list_works&sortby=pubdate)
 
 ### University of Michigan
 
