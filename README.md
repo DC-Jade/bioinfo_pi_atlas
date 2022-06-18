@@ -711,6 +711,16 @@ Homepage: https://cbmm.mit.edu/about/people/poggio
 
 Homepage: http://comp-sysbio.org/
 
+### New York University
+
+汪小京
+
+主要方向： neural computation and memory in cortical circuits
+
+主要成果：[Mechanisms of gamma oscillations](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cv-YgL0AAAAJ&citation_for_view=cv-YgL0AAAAJ:zYLM7Y9cAGgC)
+
+Homepage: http://www.cns.nyu.edu/wanglab/
+
 ## 七：计算生物学(偏计算方向)
 
 ### Stanford AI Lab
