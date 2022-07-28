@@ -168,6 +168,18 @@ Homepage: https://zhanglab.tongji.edu.cn/index.htm
 
 ## 二：基因组学
 
+### Yale University
+
+Mark Gerstein
+
+Mark Gerstein是耶鲁计算生物学和生物信息学项目的主任。Mark Gerstein教授的研究重点是生物信息学,他对数据科学、数据挖掘、大分子几何学和模拟、人类基因组注释和疾病基因组学以及基因组隐私特别感兴趣。其总引用数高达184043，H index指数183。
+
+主要方向：Genome Annotation; Disease Genomics (Neurogenomics & Cancer Genomics); Personal Genomics & Genomic Privacy; Data Science and Biological Networks; Macromolecular Motion & Dynamics; Interpretable Machine Learning Tools
+
+主要成果：RNA测序(RNA-seq)，DNA元件百科全书计划ENCODE，功能基因组学，区块链在基因上的应用
+
+Homepage：[实验室主页](http://www.gersteinlab.org/)
+
 ### Broad Institute of MIT and Harvard
 
 Eric S. Lander(谨慎，有负面报道)
