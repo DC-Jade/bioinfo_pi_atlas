@@ -194,18 +194,23 @@ Homepage: https://lab.kaizhang.org/
 
 #### 岳峰（导师：[任兵](#任兵)）
 
-- 3D genome
-- 主要方向：interested in cancer genomics and has demonstrated how epigenome and 3D genome structure are altered and led to gene dysregulation in different types of tumor
-- 主要成果： A comparative encyclopedia of DNA elements in the mouse genome(Nature, 2014)
-- Homepage: http://yuelab.org/index.html
+3D genome
+
+主要方向：interested in cancer genomics and has demonstrated how epigenome and 3D genome structure are altered and led to gene dysregulation in different types of tumor
+
+主要成果： A comparative encyclopedia of DNA elements in the mouse genome(Nature, 2014)
+
+Homepage: http://yuelab.org/index.html
 
 ### Washington University
 
 #### Ting Wang
 
-- 主要方向：investigating the evolutionary model of mobile elements (or transposable elements) and their roles in basic biology and cancer, including their genetic and epigenetic regulation
-- 主要成果：Exploring genomic data coupled with 3D chromatin structures using the WashU Epigenome Browser(Nature Methods, 2022)
-- Homepage: https://wang.wustl.edu/about/
+主要方向：investigating the evolutionary model of mobile elements (or transposable elements) and their roles in basic biology and cancer, including their genetic and epigenetic regulation
+
+主要成果：Exploring genomic data coupled with 3D chromatin structures using the WashU Epigenome Browser(Nature Methods, 2022)
+
+Homepage: https://wang.wustl.edu/about/
 
 ## 二：基因组学
 
