@@ -2,11 +2,13 @@
 
 知乎地址：生物信息学导师推荐 - Jade的文章 -  https://zhuanlan.zhihu.com/p/441702265
 
+[TOC]
+
 ## 一：表观遗传组学:
 
-### Dana-Farber and Harvard Medical School（GV20 Oncotherapy）
+### Dana-Farber and Harvard Medical School
 
-刘小乐（注：已离开学术界，任职于GV20 Oncotherapy，董事会主席）
+#### 刘小乐
 
 主要方向：整合分析全基因组ChIP-chip/Seq、核小体定位、组蛋白修饰数据、开发生物信息学算法
 
@@ -14,7 +16,9 @@
 
 Homepage: [Liu Lab](https://liulab-dfci.github.io/)
 
-Bradley E. Bernstein
+注：已离开学术界，任职于GV20 Oncotherapy，董事会主席）
+
+#### Bradley E. Bernstein
 
 主要方向：Epigenomic Regulation in Development and Cancer
 
@@ -22,15 +26,17 @@ Bradley E. Bernstein
 
 Homepage: https://bernstein.dfci.harvard.edu/
 
-Nancy Kleckner
+#### Nancy Kleckner
 
-主要方向：The Physical Biology of Chromosomes 主要成果：3C（Capturing Chromosome Conformation，通讯）
+主要方向：The Physical Biology of Chromosomes
+
+ 主要成果：3C（Capturing Chromosome Conformation，通讯）
 
 Homepage: [Nancy Kleckner](https://projects.iq.harvard.edu/kleckner_lab/home)
 
 ### University of Massachusetts Medical School
 
-Job Dekker
+#### Job Dekker(导师：[Nancy Kleckner](#Nancy Kleckner))
 
 主要方向：Genome folding；Genetic and spatial organization of the extraordinary dinoflagellate chromosomes
 
@@ -38,9 +44,9 @@ Job Dekker
 
 Homepage: [Job Dekker - Dekker Lab](http://www.dekkerlab.org/job-dekker/)
 
-### The Jackson Laboratory
+### 浙江大学
 
-阮一俊
+#### 阮一俊
 
 主要方向：3D genome biology
 
@@ -50,7 +56,7 @@ Homepage: [Yijun Ruan](https://scholar.google.com/citations?user=pGiG2REAAAAJ&hl
 
 ### University of California, Irvine
 
-李蔚（导师：陈润生）
+#### 李蔚（导师：[陈润生](#陈润生)）
 
 主要方向： 染色质修饰与基因调控、DNA 甲基化
 
@@ -60,7 +66,7 @@ Homepage: [UC Irvine - Faculty Profile System - Wei Li](https://www.faculty.uci.
 
 ### Fred Hutchinson Cancer Research Center
 
-Steven Henikoff
+#### Steven Henikoff
 
 主要方向：genomic tools to the study of proteins of the epigenome: histones, transcription factors, nucleosome remodelers, and RNA polymerase II (RNAPII)
 
@@ -70,7 +76,7 @@ Homepage: https://research.fredhutch.org/henikoff/en.html
 
 ### University of California San Diego
 
-任兵
+#### 任兵
 
 主要方向：非编码序列如何指导基因表达的时空模式，表观遗传机制如何在发育过程中调节这些序列的作用
 
@@ -80,7 +86,7 @@ Homepage: [Bing Ren, Ph.D.](http://renlab.sdsc.edu/renlab_website/bing/)
 
 ### Massachusetts Institute of Technology(MIT)
 
-Manolis Kellis
+#### Manolis Kellis
 
 主要方向：epigenetic modifications to define chromatin states；comparative genomics；annotation of the non-coding genome；Regulatory Networks
 
@@ -90,7 +96,7 @@ Homepage: [Manolis Kellis (Kamvysselis)](http://web.mit.edu/manoli/)
 
 ### Stanford University
 
-William Greenleaf（导师：谢晓亮）
+#### William Greenleaf（导师：[谢晓亮](#谢晓亮)）
 
 主要方向：UNDERSTANDING THE PHYSICAL GENOME；HIGH-THROUGHPUT BIOPHYSICS & MOLECULAR EVOLUTION；DNA ACCESSIBILITY & CHROMATIN STRUCTURE
 
@@ -98,7 +104,7 @@ William Greenleaf（导师：谢晓亮）
 
 Homepage: https://greenleaf.stanford.edu/
 
-张元豪
+#### 张元豪 Howard Y. Chang
 
 主要方向：细胞染色质可及性和异质性的研究
 
@@ -108,7 +114,7 @@ Homepage: https://profiles.stanford.edu/howard-chang
 
 ### Cold Spring Harbor Laboratory
 
-张奇伟
+#### 张奇伟
 
 主要方向：启动子鉴定；RNA剪切事件检测
 
@@ -118,7 +124,7 @@ Homepage: [Michael Q. Zhang's Lab: People](http://rulai.cshl.edu/people/index1.h
 
 ### 北京大学
 
-汤富酬
+#### 汤富酬
 
 主要方向：人类早期胚胎以及生殖系细胞发育的单细胞功能基因组学研究
 
@@ -128,7 +134,7 @@ Homepage: [汤富酬-北京未来基因诊断高精尖创新中心](https://icg.
 
 ### 清华大学
 
-颉伟（导师：任兵）
+#### 颉伟（导师：[任兵](#任兵)）
 
 主要方向：动物胚胎早期发育过程中的表观遗传调控；动物胚胎早期发育过程中的表观遗传调控
 
@@ -138,7 +144,7 @@ Homepage: [颉 伟-清华大学生命学院](https://life.tsinghua.edu.cn/info/1
 
 ### NIH
 
-赵可吉
+#### 赵可吉
 
 主要方向：哺乳动物发育和分化的表观遗传机制研究
 
@@ -146,9 +152,9 @@ Homepage: [颉 伟-清华大学生命学院](https://life.tsinghua.edu.cn/info/1
 
 Homepage: https://irp.nih.gov/pi/keji-zhao
 
-### 北京基因组所：
+### 北京基因组研究所
 
-刘江 
+#### 刘江
 
 主要方向：表观遗传修饰如何从父母遗传到子代的遗传和进化规律进行研究
 
@@ -158,7 +164,7 @@ Homepage: [中国科学院北京基因组研究所（国家生物信息中心）
 
 ### 同济大学
 
-张勇（导师：刘小乐）
+#### 张勇（导师：[刘小乐](#刘小乐)）
 
 主要方向：表观遗传组学算法的开发、组蛋白干细胞分化以及胚胎发育
 
@@ -166,11 +172,46 @@ Homepage: [中国科学院北京基因组研究所（国家生物信息中心）
 
 Homepage: https://zhanglab.tongji.edu.cn/index.htm
 
+### 西湖大学
+
+#### 张延晓 （导师：[任兵](#任兵)）
+
+主要方向:  investigating how the dysfunction of heterochromatin, repetitive elements and transposons contributes to the oncogenic and aging processes
+
+主要成果: Transcriptionally active HERV-H retrotransposons demarcate topologically associating domains in human pluripotent stem cells(**Nature Genetics, 2019**)
+
+Homepage: https://zhangyxlab.github.io/ 
+
+#### 张恺（ 导师：[任兵](#任兵))
+
+主要方向：embracing a multidisciplinary approach to address pressing challenges in Regulatory Genomics
+
+主要成果：A single-cell atlas of chromatin accessibility in the human genome(Cell, 2021)
+
+Homepage: https://lab.kaizhang.org/
+
+###  Northwestern University
+
+#### 岳峰（导师：[任兵](#任兵)）
+
+- 3D genome
+- 主要方向：interested in cancer genomics and has demonstrated how epigenome and 3D genome structure are altered and led to gene dysregulation in different types of tumor
+- 主要成果： A comparative encyclopedia of DNA elements in the mouse genome(Nature, 2014)
+- Homepage: http://yuelab.org/index.html
+
+### Washington University
+
+#### Ting Wang
+
+- 主要方向：investigating the evolutionary model of mobile elements (or transposable elements) and their roles in basic biology and cancer, including their genetic and epigenetic regulation
+- 主要成果：Exploring genomic data coupled with 3D chromatin structures using the WashU Epigenome Browser(Nature Methods, 2022)
+- Homepage: https://wang.wustl.edu/about/
+
 ## 二：基因组学
 
 ### Broad Institute of MIT and Harvard
 
-Eric S. Lander(谨慎，有负面报道)
+#### Eric S. Lander(谨慎，有负面报道)
 
 主要方向：human genetic variation; human population history; genome evolution; regulatory elements; long non-coding RNAs; three-dimensional folding of the human genome; and genome-wide screens to discover the genes essential for biological processes using CRISPR-based genome editing
 
@@ -180,7 +221,7 @@ Homepage: [Eric S. Lander](https://www.broadinstitute.org/bios/eric-s-lander)
 
 ### Genentech
 
-Aviv Regev
+#### Aviv Regev
 
 主要方向：single-cell genomics；The evolution of gene regulation；networks that regulate genes, define cells and tissues, and influence health and disease
 
@@ -190,7 +231,7 @@ Homepage: https://www.broadinstitute.org/regev-lab
 
 ### Dana-Farber and Harvard Medical School
 
-李恒
+#### 李恒
 
 主要方向：比对等算法开发
 
@@ -200,7 +241,7 @@ Homepage: [Heng Li's Homepage](http://www.liheng.org/)
 
 ### Massachusetts Institute of Technology
 
-Bonnie Berger
+#### Bonnie Berger
 
 主要方向：Computational molecular biology；Network Inference；PPI networks；protein structural motif recognition and discovery；Compressive Genomics；molecular self-assembly and mis-assembly, and functional genomics
 
@@ -210,7 +251,7 @@ Homepage: [Bonnie Berger | MIT Mathematics](https://math.mit.edu/directory/profi
 
 ### Children's Hospital of Philadelphia
 
-王凯
+#### 王凯
 
 主要方向：bioinformatics methods to advance genomic medicine, deep neural network for long-read sequencing, deep phenotyping on electronic health records, graduate rotation and undergraduate research projects
 
@@ -218,10 +259,9 @@ Homepage: [Bonnie Berger | MIT Mathematics](https://math.mit.edu/directory/profi
 
 Homepage: [Wang Lab](https://wglab.org/index.html)
 
-
 ### 北京大学
 
-谢晓亮
+#### 谢晓亮
 
 主要方向：单细胞全基因组学；单分子酶学；单分子生物物理化学
 
@@ -229,7 +269,7 @@ Homepage: [Wang Lab](https://wglab.org/index.html)
 
 Homepage: [谢晓亮-北京未来基因诊断高精尖创新中心](https://icg.pku.edu.cn/kxyj/yjtd/269284.htm)
 
-张泽民
+#### 张泽民
 
 主要方向：单细胞技术研究肿瘤生物学
 
@@ -237,7 +277,7 @@ Homepage: [谢晓亮-北京未来基因诊断高精尖创新中心](https://icg.
 
 Homepage: http://cancer-pku.cn/
 
-李程（导师：王永雄）
+#### 李程（导师：[王永雄 Wing Hung Wong](#王永雄 Wing Hung Wong)）
 
 主要方向：肿瘤突变的检测以及基因组突变和基因表达的调控关系
 
@@ -245,17 +285,19 @@ Homepage: http://cancer-pku.cn/
 
 Homepage: [北京大学统计科学中心](https://www.stat-center.pku.edu.cn/zxry/zxjy/lc/1227408.htm)
 
-### 清华大学：
+### 清华大学
 
-张学工 
+#### 张学工 
 
 主要方向：机器学习与生物和医学大数据分析、人类细胞图谱与人体系统数字孪生、单细胞生物信息学分析
+
+主要成果：
 
 Homepage: [张学工-清华大学自动化系](https://www.au.tsinghua.edu.cn/info/1110/1569.htm)
 
 ### Cornell University
 
-Edward Buckler
+#### Edward Buckler
 
 主要方向：Plant Breeding and Genetics Section; Quantitative and statistical genetics in maize, cassava, biofuel grasses, and grapes
 
@@ -265,15 +307,17 @@ Homepage: https://www.maizegenetics.net/
 
 ### 中山大学
 
-吴仲义
+#### 吴仲义
 
 主要方向：分子进化、群体基因组学、进化基因组学
+
+主要成果：
 
 Homepage: http://sklbc.sysu.edu.cn/teacher/202
 
 ### 西湖大学
 
-杨剑
+#### 杨剑
 
 主要方向：通过GWAS检测基因组变异、高性能计算生物学分析方法和工具的开发、以及疾病的遗传风险评估
 
@@ -281,9 +325,17 @@ Homepage: http://sklbc.sysu.edu.cn/teacher/202
 
 Homepage: https://sls.westlake.edu.cn/Our_Faculty/202007/t20200717_6659.shtml
 
+#### 窦岩梅
+
+主要方向：开发检测一系列常见和罕见嵌合突变的方法; 探索人类不同发育阶段突变谱的特征和之间的潜在关联; 对嵌合突变进行泛癌检测和分析
+
+主要成果：Accurate detection of mosaic variants in sequencing data without matched controls. (**Nat Biotechnol, 2020**)
+
+Homepage: https://sls.westlake.edu.cn/Our_Faculty/202104/t20210407_9156.shtml
+
 ### The University of Texas
 
-Nicholas Navin
+#### Nicholas Navin
 
 主要方向：Single Cell Genomics; Cancer Evolution；development of single cell genome sequencing technologie；study cancer as an evolutionary process in which clones undergo selection and expansion in response to selective pressures
 
@@ -291,7 +343,7 @@ Nicholas Navin
 
 Homepage: https://faculty.mdanderson.org/profiles/nicholas_navin.html
 
-Momiao Xiong
+#### Momiao Xiong
 
 主要方向：Genome-Wide Causation Studies(GWCS)
 
@@ -301,23 +353,35 @@ Homepage：[google scholar](https://scholar.google.com/citations?hl=en&user=q1VY
 
 ### University of Michigan
 
-张建之
+#### 张建之
 
 主要方向：计算分子进化；进化基因组学
 
+主要成果：
+
 Homepage: [Jianzhi Zhang | U-M LSA Ecology and Evolutionary Biology (EEB)](https://lsa.umich.edu/eeb/people/faculty/jianzhi.html)
+
+#### Xiang Zhou
+
+主要方向：Methods for Genome-wide Association Studies，Methods for Functional Genomics Sequencing Studies
+
+主要成果：Genome-wide efficient mixed-model analysis for association studies
+
+Homepage：http://www.xzlab.org/index.html
 
 ### University of Chicago
 
-龙漫远
+#### 龙漫远
 
 主要方向：Evolution of gene essentiality in development；Evolutionary analysis of gene interactions with new genes
+
+主要成果：
 
 Homepage: [| Ecology & Evolution](https://ecologyandevolution.uchicago.edu/faculty/manyuan-long-phd)
 
 ### University College London
 
-杨子恒
+#### 杨子恒
 
 主要方向：develop statistical models and computer software for population genetic and phylogenetic
 
@@ -327,15 +391,25 @@ Homepage: http://abacus.gene.ucl.ac.uk/
 
 ### 复旦大学
 
-金力
+#### 金力
 
 主要方向：人类群体遗传学和基因组学、医学遗传学及遗传流行病学（心血管疾病、风湿病、肿瘤等）、计算生物学
 
+主要成果：
+
 Homepage: [金力](https://ibs.fudan.edu.cn/ab/2f/c21163a240431/page.htm)
+
+#### 徐书华
+
+主要方向: 发展和运用群体遗传学方法和计算生物学手段，致力于研究人群遗传结构、环境适应和微观进化等方面的科学问题
+
+主要成果: 
+
+Homepage: http://pog.fudan.edu.cn/#/home
 
 ### Carnegie Mellon University
 
-马坚
+#### 马坚
 
 主要方向：机器学习算法的开发；人类基因组结构和功能与疾病的联系；智能医疗和智能健康；多模态数据整合
 
@@ -345,17 +419,17 @@ Homepage: [Carnegie Mellon School of Computer Science](https://www.cs.cmu.edu/~j
 
 ### 中国农业科学院农业基因组研究所
 
-阮珏   
+#### 阮珏   
 
 主要方向：基因组组装算法、极低频点突变检测、基因组结构变异检测
 
 主要成果：Pseudo-sanger、wtdbg2、SMARTdenovo
 
-Homepage: [中国农科院基因组所](http://agis.caas.cn/rcpy/nkyrc/zgnykxynkyctszcljrcrxzalblcl/230318.htm)
+Homepage: [中国农科院基因组所](https://www.agis.org.cn/kydw/kydwyjzx/zxjsyjzx/b9eb4c62e6d54e12a88f130921563eee.htm)
 
 ### St. Jude Children's Research Hospital
 
-Jinghui Zhang
+#### Jinghui Zhang
 
 主要方向：the development of highly accurate and sensitive computational methods for analyzing large-scale genomic data, especially in the area of detecting and analyzing genetic variations and somatic mutations
 
@@ -363,9 +437,9 @@ Jinghui Zhang
 
 Homepage: https://www.stjuderesearch.org/site/lab/zhang
 
-### 上海交通大学瑞金医院
+### 上海交通大学
 
-方海（没有找到主页）
+#### 方海（没有找到主页）
 
 主要方向：GWAS治疗靶点转化研究
 
@@ -373,33 +447,71 @@ Homepage: https://www.stjuderesearch.org/site/lab/zhang
 
 Homepage: https://www.nature.com/articles/s41588-019-0456-1#code-availability
 
-###  University of Michigan
+### Washington State University
 
-Xiang Zhou
+#### Zhiwu Zhang（导师：[Edward Buckler](#Edward Buckler)）
 
-主要方向：Methods for Genome-wide Association Studies，Methods for Functional Genomics Sequencing Studies
+主要方向: 1)high throughput phenotyping by using hyperspectral images and remote sensing images from satellites and drones; 2) the development of innovative statistical methods and computing tools for gene mapping and genomic selection
 
-主要成果：Genome-wide efficient mixed-model analysis for association studies
+主要成果: Mixed linear model approach adapted for genome-wide association studies(Nature Genetics, 2010)
 
-Homepage：http://www.xzlab.org/index.html
+Homepage: https://zzlab.net/
+
+### 中国农业科学院农业基因组研究所
+
+#### 黄三文
+
+主要方向：利用组学大数据开拓植物生物学前沿并推动作物育种变革；发起了“优薯计划”，旨在利用基因组设计育种变革马铃薯的育种和繁殖方式
+
+主要成果：Haplotype-resolved genome analyses of a heterozygous diploid potato. (**Nature Genetics, 2020**)
+
+Homepage: https://agis.caas.cn/rcpy/gjjrc/gjgccrctszcjh/230423.htm
+
+### 中科院遗传发育研究所
+
+#### 鲁非（导师：[Edward Buckler](#Edward Buckler)）
+
+主要方向: 
+
+主要成果: witchgrass genomic diversity, ploidy and evolution: novel insights from a network-based SNP discovery protocol(**PLoS Genetics, 2013**)
+
+Homepage: https://plantgeneticslab.github.io/home/
+
+### 华中农业大学
+
+#### 刘小磊（导师：[Edward Buckler](#Edward Buckler)）
+
+主要方向：统计遗传学与基因组育种，致力于全基因组关联分析（GWAS）和基因组选择/预测（GS/GP）算法的研究
+
+主要成果：Iterative Usage of Fixed and Random Effect Models for Powerful and Efficient Genome-wide Association Studies.(**PLoS Genetics, 2016)**
+
+Homepage: https://faculty.hzau.edu.cn/liuxiaolei/zh_CN/index.htm
+
+### 哈尔滨工业大学
+
+#### 王亚东
+
+主要方向: 基因组数据分析算法开发
+
+主要成果: Long-read-based human genomic structural variation detection with cuteSV(**Genome Biology, 2020**)
+
+Homepage: http://homepage.hit.edu.cn/wangyadong
 
 ## 三：RNA组学
 
 ### 中国科学院大学生物物理所
 
-陈润生（中国生信第一人）
+#### 陈润生（中国生信第一人）
 
 主要方向：胚胎早期发育以及干细胞重编程过程中长非编码RNA以及编码小肽的系统发现和功能机制研究
 
-主要成果：参加人类基因组1%和水稻基因组工作草图的研究；非编码RNA数据库NONCODE；
-
-数据库NPInter（非编码RNA与其它生物大分子相互作用）
+主要成果：参加人类基因组1%和水稻基因组工作草图的研究；非编码RNA数据库NONCODE；数据库NPInter（非编码RNA与其它生物大分子相互作用）
 
 Homepage: [陈润生-中国科学院大学-UCAS](http://people.ucas.ac.cn/~runshengchen)
 
 ### Stanford University
 
-王永雄 Wing Hung Wong
+#### 王永雄 Wing Hung Wong
 
 主要方向：贝叶斯统计、计算生物学；基因调控网络
 
@@ -409,7 +521,7 @@ Homepage: [Welcome to the Wong Lab](https://web.stanford.edu/group/wonglab/)
 
 ### 北京大学
 
-高歌
+#### 高歌
 
 主要方向：围绕基因型-表型关系的研究，基于统计建模与机器学习的生物学大数据整合与挖掘、以基因表达为中心的调控通路功能及演化、基于组学大数据的精准医学
 
@@ -417,23 +529,17 @@ Homepage: [Welcome to the Wong Lab](https://web.stanford.edu/group/wonglab/)
 
 Homepage: [Bioinformatics and Computational Genomics](http://www.gao-lab.org/)
 
-崔庆华
-
-主要方向：心脑血管疾病、癌症、糖尿病等重大复杂疾病关键miRNA/lncRNA的计算机识别；miRNA/lncRNA在疾病中调控规律的数据挖掘；基于RNA的计算机辅助药物研发等
-
-主要成果：LncRNADisease: a database for long-non-coding RNA-associated diseases（Nucleic Acids Research 2013）；Inferring the human microRNA functional similarity and functional network based on microRNA-associated diseases（Bioinformatics 2010）
-
-Homepage: [北京大学基础医学院](https://sbms.bjmu.edu.cn/jsdw/bssds/5fcd1cdb0bfa41adbed229df5bb7da9f.htm)
-
 ### 清华大学
 
-鲁志
+#### 鲁志
 
 主要方向：动植物中编码和非编码RNA的转录后调控研究 、癌症等疾病中新型RNA分子标识物的发现和机理研究、 机器学习等数据挖掘技术的研究及其在基因组学大数据上的应用
 
+主要成果：
+
 Homepage: [鲁 志-清华大学生命学院](https://life.tsinghua.edu.cn/info/1034/1298.htm)
 
-张强锋（导师：Howard Y. Chang）
+#### 张强锋（导师：[张元豪 Howard Y. Chang](#张元豪 Howard Y. Chang)）
 
 主要方向：使用高通量深度测序的手段来探测RNA二级结构和计算建模，RNA功能模体（motif）等有效预测或发现方法，蛋白-蛋白、RNA-RNA、以及蛋白-RNA相互作用网络
 
@@ -443,7 +549,7 @@ Homepage: [张强锋实验室](https://zhanglab.net/)
 
 ### University of California San Diego
 
-Gene Yeo
+#### Gene Yeo
 
 主要方向：manipulating RNA processing in development and disease using induced pluripotent stem cell and murine models； RNA genomics technology and therapeutics development
 
@@ -453,7 +559,7 @@ Homepage: [Institute for Genomic Medicine](http://igm.ucsd.edu/faculty/profiles/
 
 ### 中科院上海营养与健康研究所
 
-杨力
+#### 杨力
 
 主要方向：构建高效计算生物学新体系，揭示外显子环形RNA在生成加工和功能作用水平的多层次调控新机制；开展大数据整合及计算生物学分析，主要发现RNA单碱基编辑和修饰互作的分子基础，并进一步利用核酸编辑酶构建高效基因组碱基编辑新体系
 
@@ -463,7 +569,7 @@ Homepage: [杨力----中国科学院上海营养与健康研究所](http://www.s
 
 ### The University of Texas MD Anderson Cancer Center
 
-Han Liang（导师：Wen-Hsiung Li）
+#### Han Liang（导师：Wen-Hsiung Li）
 
 主要方向：bioinformatics tool development, integrated cancer genomic analysis, RNA regulation/modification, and cancer systems biology
 
@@ -473,7 +579,7 @@ Homepage: https://faculty.mdanderson.org/profiles/liang_han.html
 
 ### 浙江大学
 
-郭国骥
+#### 郭国骥
 
 主要方向：单细胞RNA组学
 
@@ -485,7 +591,7 @@ Homepage: [郭国骥-浙江大学个人主页](https://person.zju.edu.cn/ggj#0)
 
 ### Johns Hopkins University
 
-Steven Salzberg
+#### Steven Salzberg
 
 主要方向: develop software for aligning and assembling genomes representing a wide range of species, transcriptome analysis, and microbiome analysis
 
@@ -495,7 +601,7 @@ Homepage: https://salzberg-lab.org/
 
 ### UCLA
 
-Jingyi Jessica Li
+#### Jingyi Jessica Li
 
 主要方向：developing statistical and computational methods，including association measures, high-dimensional variable selection, and classification metrics， scRNA-seq
 
@@ -507,7 +613,7 @@ Homepage：http://jsb.ucla.edu/
 
 ### Eidgenössische Technische Hochschule Zürich
 
-Ruedi Aebersold
+#### Ruedi Aebersold
 
 主要方向：One of the pioneers in the field of proteomics, Mass Spectrometry, Systems Biology, Bioinformatics, 
 
@@ -518,7 +624,7 @@ Homepage: [Ruedi Aebersold](http://www.imsb.ethz.ch/research/aebersold/people/ru
 
 ### Max-Planck-Institute of Biochemistry
 
-Matthias Mann
+#### Matthias Mann
 
 主要方向：Mass Spectrometry, Systems Biology, Bioinformatics, Signal Transduction, Posttranslational modifications, Metabolic diseases, Clinical proteomics, Cancer
 
@@ -529,7 +635,7 @@ Homepage: [Mann lab](https://www.biochem.mpg.de/mann)
 
 ### Scripps Research Institute
 
-John R Yates III
+#### John R Yates III
 
 主要方向：Mass Spectrometry, Bioinformatics, 
 
@@ -539,7 +645,7 @@ Homepage: [Yates Lab](http://fields.scripps.edu/yates/wp/)
 
 ### 西湖大学
 
-郭天南
+#### 郭天南
 
 主要方向：开发前沿蛋白质组学技术，用于高通量地从最少量的临床样本精确定量最多的蛋白质，推动定量蛋白质组学的研究；生物标记的鉴定
 
@@ -549,7 +655,7 @@ Homepage: [Guomics Laboratory](https://guomics.com/)
 
 ### 暨南大学
 
-张弓
+#### 张弓
 
 主要方向：翻译组学
 
@@ -561,7 +667,7 @@ Homepage: [Translatomics Lab 翻译组学实验室](https://translatome.net/Abou
 
 ### Google DeepMind
 
-Demis Hassabis（导师：Tomaso Poggio）
+#### Demis Hassabis（导师：Tomaso Poggio）
 
 主要方向：neuroscience and artificial intelligence
 
@@ -569,7 +675,7 @@ Demis Hassabis（导师：Tomaso Poggio）
 
 Homepage: [About](https://deepmind.com/about)
 
-John Jumper
+#### John Jumper
 
 主要方向：protein structure prediction 
 
@@ -579,7 +685,7 @@ Homepage: [Science Team](https://deepmind.com/about/science#team_profile)
 
 ### The University of Washington
 
-David Baker
+#### David Baker
 
 主要方向：Deep learning for protein structure refinement and protein design; Designing molecular switches, enzymes, and motors; Designing delivery vehicles for targeted intracellular delivery of biologics 
 
@@ -589,7 +695,7 @@ Homepage: https://www.bakerlab.org/
 
 ### Tel Aviv University
 
-Nir Ben-Tal
+#### Nir Ben-Tal
 
 主要方向：computational structural biology， including both methods development and applications to selected problems
 
@@ -599,7 +705,7 @@ Homepage: https://en-lifesci.tau.ac.il/profile/bental
 
 ### Max Planck Institute for Developmental Biology
 
-Andrei N. Lupas
+#### Andrei N. Lupas
 
 主要方向：Protein Evolution
 
@@ -607,7 +713,7 @@ Andrei N. Lupas
 
 Homepage: https://www.mpg.de/459944/developmental-biology-lupas
 
-Johannes Söding
+#### Johannes Söding
 
 主要方向：protein function and structure prediction；sequence search and assembly in metagenomics
 
@@ -619,7 +725,7 @@ Homepage: https://www.mpibpc.mpg.de/soeding
 
 ### University of Texas Southwestern Medical Center
 
-Nick Grishin
+#### Nick Grishin
 
 主要方向：develop new computational approachesto explore protein sequence-structure
 
@@ -629,7 +735,7 @@ Homepage: [Grishin Lab: Home Page](http://prodata.swmed.edu/Lab/HomeLAB.htm)
 
 ### University of Michigan Medical School
 
-Yang Zhang
+#### Yang Zhang
 
 主要方向：develop bioinformatics approaches to predict the three-dimensional structures of proteins from amino acid sequences ；Assemble Protein Structures from Cryo-EM
 
@@ -639,7 +745,7 @@ Homepage: [Yang Zhang, Ph.D. | Computational Medicine and Bioinformatics | Michi
 
 ### Memorial Sloan Kettering Cancer Center
 
-Dana Pe'er
+#### Dana Pe'er
 
 主要方向：combines single cell technologies, genomic datasets and machine learning algorithms to address fundamental questions in biomedical science
 
@@ -649,7 +755,7 @@ Homepage: https://www.mskcc.org/research/ski/labs/dana-pe-er
 
 ### 山东大学
 
-杨建益
+#### 杨建益
 
 主要方向：Protein structure and function prediction；Protein structure alignment；Protein-ligand binding site prediciton
 
@@ -659,8 +765,8 @@ Homepage: [Yang Lab](https://yanglab.nankai.edu.cn/)
 
 ### King Abdullah University of Science and Technology
 
-高欣
-	
+#### 高欣
+
 主要方向：1) developing theory and methodology in the fields of machine learning and algorithms; and 2) solving key open problems in biological and medical fields through building computational models, developing machine-learning techniques, and designing effective and efficient algorithms
 
 主要成果：DEEPre: sequence-based enzyme EC number prediction by deep learning(Bioinformatics 2018)
@@ -669,29 +775,39 @@ Homepage: https://sfb.kaust.edu.sa/Pages/Home.aspx
 
 ### Chinese University of Hong Kong
 
-李煜（导师：高欣）
-	
+#### 李煜（导师：高欣）
+
 主要方向：working at the intersection between machine learning, healthcare and bioinformatics, developing new machine learning methods to resolve the computational problems in biology and healthcare, especially the structured learning problems
 
 主要成果：DEEPre: sequence-based enzyme EC number prediction by deep learning(Bioinformatics 2018)
 
 Homepage: https://liyu95.com/
 
-### 清华大学
+### 西湖大学
 
-Jianyang (Michael) Zeng
+#### Jianyang (Michael) Zeng
 
 主要方向：AI for drug discovery and drug repositioning，Three-dimensional genome structure and gene regulation，Computational method development in Cryo-EM
 
 主要成果：[DTINet](https://github.com/luoyunan/DTINet) , [ROSE](https://github.com/zhangsaithu/rose)
 
-Homepage：http://group.iiis.tsinghua.edu.cn/~compbio/people201801.html
+Homepage：https://www.westlake.edu.cn/faculty/jianyang-zeng.html
+
+### 北京生命科学研究所
+
+#### 徐纯福（导师：[David Baker](#David Baker)）
+
+主要方向：开发基于深度学习算法的新的蛋白设计方法
+
+主要成果：Computational Design of Transmembrane Pores.(**Nature, 2020**)
+
+Homepage: http://www.nibs.ac.cn/yjsjyimgshow.php?cid=5&sid=6&id=2467
 
 ## 六：计算神经生物学
 
 ### The Center for Brains, Minds and Machines (CBMM) of MIT
 
-Tomaso Poggio 
+#### Tomaso Poggio 
 
 主要方向：Brain Imaging；Cellular & Molecular Neuroscience；Cognitive Neuroscience；ComputationalNeuroscience
 
@@ -703,7 +819,7 @@ Homepage: https://cbmm.mit.edu/about/people/poggio
 
 ### 复旦大学
 
-赵兴明
+#### 赵兴明
 
 主要方向：开发新的计算方法用于分子网络的构建和分析；脑核磁共振图像的处理；脑功能神经网络的构建和处理；疾病相关分子通路的识别；药物靶蛋白预测和药物重定位
 
@@ -713,7 +829,7 @@ Homepage: http://comp-sysbio.org/
 
 ### New York University
 
-汪小京
+#### 汪小京
 
 主要方向： neural computation and memory in cortical circuits
 
@@ -721,23 +837,21 @@ Homepage: http://comp-sysbio.org/
 
 Homepage: http://www.cns.nyu.edu/wanglab/
 
-## 七：计算生物学(偏计算方向)
+## 七：计算生物学(算法开发)
 
 ### Stanford AI Lab
 
-Daphne Koller
+#### Daphne Koller
 
 主要方向：Systematic Analysis of Breast Cancer Morphology Uncovers Stromal Features Associated with Survival；Pathways Understanding；Study of Protein-Protein Interactions Using Probabilistic Graphical Models；Computer vision；Bayesian Network；Robotics
 
-主要成果：Activity motifs reveal principles of timing in transcriptional control of the yeast metabolic network；
-
-Continuous Time Bayesian Networks；Multi-Class Segmentation with Relative Location Prior
+主要成果：Activity motifs reveal principles of timing in transcriptional control of the yeast metabolic network；Continuous Time Bayesian Networks；Multi-Class Segmentation with Relative Location Prior
 
 Homepage: [Daphne Koller's Research Group](http://dags.stanford.edu/projects.html)
 
 ### Weizmann Institute of Science
 
-Nir Freidman
+#### Nir Freidman
 
 主要方向：combine advanced experimental and mathematical approaches to study intercellular communication；T cell activation and differentiation；Characterizing T cell receptor repertoires using high throughput sequencing (TCR-seq)
 
@@ -747,19 +861,17 @@ Homepage: https://www.weizmann.ac.il/immunology/NirFriedman/
 
 ### 北京大学
 
-韩敬东
+#### 韩敬东
 
 主要方向：开发数据整合和网络分析的计算方法；衰老的系统生物学研究
 
-主要成果：Evidence for dynamically organized modularity in the yeast protein–protein interaction network；
-
-Spatial transcriptomic analysis of cryosectioned tissue samples with Geo-seq
+主要成果：Evidence for dynamically organized modularity in the yeast protein–protein interaction network；Spatial transcriptomic analysis of cryosectioned tissue samples with Geo-seq
 
 Homepage: [韩敬东-北京大学前沿交叉学科研究院](http://www.aais.pku.edu.cn/duiwu/showproduct.php?id=214)
 
 ### The Chinese University of Hong Kong
 
-Kevin Y Yip
+#### Kevin Y Yip
 
 主要方向：computational biology and bioinformatics (CBB)；Whole-genome identification of sequence elements；Computational modeling of gene regulation
 
@@ -769,7 +881,7 @@ Homepage: [Home of Kevin Yip](http://www.cse.cuhk.edu.hk/~kevinyip/index.html)
 
 ### University of Pennsylvania
 
-Nancy Ruonan Zhang
+#### Nancy Ruonan Zhang
 
 主要方向：Statistics, Computer Science, and Biology, seeking new ways to think about and work with genomic data
 
@@ -777,7 +889,7 @@ Nancy Ruonan Zhang
 
 Homepage: [Department of Statistics and Data Science](https://statistics.wharton.upenn.edu/profile/nzh/)
 
-Kai Tan
+#### Kai Tan
 
 主要方向：using genomics and systems biology approaches to understand the gene regulatory factors underlying cellular processes
 
@@ -785,7 +897,7 @@ Kai Tan
 
 Homepage: https://www.med.upenn.edu/apps/faculty/index.php/g275/p8885111
 
-Mingyao Li
+#### Mingyao Li
 
 主要方向：statistical genetics and genomics；use statistical and machine learning approaches to understand cellular heterogeneity ；characterize gene expression diversity across cell types；to study the patterns of cell state transition and crosstalk of various cells using data generated from single-cell transcriptomics studies
 
@@ -795,7 +907,7 @@ Homepage: https://www.med.upenn.edu/apps/faculty/index.php/g275/p8122973
 
 ### UT Southwestern Medical Center
 
-Jian Zhou
+#### Jian Zhou
 
 主要方向：Decoding Genomic Sequence；Evolution of Regulatory Genome；Data Science and AI Methods
 
@@ -805,7 +917,7 @@ Homepage: [Jian Zhou - Home](https://www.princeton.edu/~jzthree/)
 
 ### Johns Hopkins University
 
-Jean Fan
+#### Jean Fan
 
 主要方向：develop methods for analyzing single-cell spatially resolved transcriptomic sequencing and imaging data；cellular heterogeneity on cancer pathogenesis and prognosis
 
@@ -815,7 +927,7 @@ Homepage: [Jean Fan - Johns Hopkins Biomedical Engineering](https://www.bme.jhu.
 
 ### University of Michigan
 
-Lana Garmire
+#### Lana Garmire
 
 主要方向：Integrative omics/clinic data analysis；Develop computational methods to analyze high-throughput data from next-generation sequencing
 
@@ -825,10 +937,140 @@ Homepage: [Lana Garmire, Ph.D. | Computational Medicine and Bioinformatics | Mic
 
 ### Univeristy of Hong Kong
 
-Yuanhua Huang
+#### Yuanhua Huang
 
 主要方向：developing statistical machine learning methods and computational algorithms for analysing biomedical data, particularly single-cell genomic data
 
 主要成果：BRIE: transcriptome-wide splicing quantification in single cells；Vireo: Bayesian demultiplexing of pooled single-cell RNA-seq data without genotype reference
 
 Homepage: [Huang Lab @ HKU Home](https://web.hku.hk/~yuanhua/)
+
+
+
+## Todo
+
+### 清华大学
+
+#### ~~古槿~~
+
+主要方向: 生物信息学；机器学习；系统与精准肿瘤学
+
+主要成果: 
+
+Homepage: https://www.au.tsinghua.edu.cn/info/1005/1706.htm
+
+### 南方科技大学
+
+#### ~~靳文菲（海外高层次青年人才）~~
+
+主要方向: 发展单细胞组学实验技术和计算方法，刻画肿瘤微环境尤其是肿瘤免疫微环境指导精准免疫治疗；利用多组学数据鉴定癌症遗传突变和风险因子，建立癌症风险模型
+
+主要成果: Comprehensive mapping of the alternative polyadenylation site usage and its dynamics at single cell resolution(**PNAS, 2021**) 
+
+Homepage: https://faculty.sustech.edu.cn/jinwf/
+
+### 北京基因组研究所
+
+#### ~~蒋岚（导师：刘江）~~
+
+主要方向：研发大规模单细胞精度的多组学技术和计算分析方法; 人工智能在单细胞组学大数据中的应用; 研究表观遗传基因调控在发育和疾病中的作用
+
+主要成果：GiniClust: detecting rare cell types from single-cell gene expression data with Gini index(**Genome Biology, 2016**)
+
+Homepage: http://www.big.cas.cn/yjdw_/kyxmz/index_84122.html?json=http://www.big.cas.cn/sourcedb_big_cas/zw/zjrc_/kyxmz/xxzdsys/201807/t20180709_5040401.json
+
+### 北京大学
+
+#### ~~曾泽贤（导师：刘小乐）~~
+
+主要方向： cancer immunology and immunotherapy, cell signaling, and gene expression regulation；developing a number of algorithms and tools to analyze high throughput genomics data, including RNA-seq, WES, CRISPR Screen, single cell, spatial transcriptomics, ATAC-seq data
+
+主要成果：TISMO: syngeneic mouse tumor database to model tumor immunity and immunotherapy response(**Nucleic Acids Res, 2022**)
+
+Homepage: http://cqb.pku.edu.cn/zenglab/
+
+#### ~~李国强（导师：任兵）~~
+
+主要方向：utilize single-cell multi-omics and functional genomics to examine the mechanisms and functions of epigenetic modifications, 3D genome organization, and non-coding *cis*-regulatory elements in regulating gene expression
+
+主要成果：Joint profiling of DNA methylation and chromatin architecture in single cells(**Nature Methods, 2019**)
+
+Homepage: https://lilab.mysxl.cn/
+
+### 南方科技大学
+
+#### ~~帅世民（海外高层次青年人才计划； 玛丽居里项目）~~
+
+主要方向：RNA异常剪接与人类疾病的关联；全尺度遗传变异与人类疾病的关联；多组学数据分析与新型组学数据分析工具研发
+
+主要成果：The U1 spliceosomal RNA is recurrently mutated in multiple cancers(**Nature, 2019**)
+
+Homepage: https://sustech.edu.cn/zh/faculties/shiminshuai.html
+
+### 北京大学
+
+#### ~~宋宝兴（导师：[Edward Buckler](#Edward Buckler)）~~
+
+主要方向：比较基因组学及数量遗传学；以农作物为研究对象使用生物信息学和遗传学方法理解农艺性状的遗传分子机理并应用于农艺性状的预测、优化和改良
+
+主要成果：AnchorWave: Sensitive alignment of genomes with high sequence diversity, extensive structural polymorphism, and whole-genome duplication(**PNAS, 2021**)
+
+Homepage: http://www.pku-iaas.edu.cn/rczp/433.html
+
+### 中科院生物物理所
+
+#### ~~李昂~~
+
+主要方向：利用机器学习和计算模型等方法，结合多模态的神经影像、基因组、转录组等大规模数据，试图理解人类在复杂精神疾病、不同意识水平下的脑网络表征，以期面向精准医疗的临床转化
+
+主要成果：A neuroimaging biomarker for striatal dysfunction in schizophrenia(**Nature Medicine, 2020**)
+
+Homepage: http://www.ibp.cas.cn/sourcedb_ibp_cas/cn/ibpexport/nyrzkxgjzdsys/202011/t20201119_5755564.html
+
+### 西湖大学
+
+#### ~~裴唯珂~~
+
+主要方向：开发多维度的单细胞谱系示踪技术，从遗传、转录、表观以及空间、时间等多个层次研究细胞命运的调控机制；结合单细胞多组学技术全面解析免疫系统发育与衰老相关机制
+
+主要成果：Polylox barcoding reveals haematopoietic stem cell fates realized in vivo(**Nature, 2017**)
+
+Homepage: https://sls.westlake.edu.cn/Our_Faculty/202105/t20210521_10179.shtml
+
+#### ~~陈子博（导师：[David Baker](#David Baker)）~~
+
+主要方向：使用Rosetta从头设计蛋白质组件；蛋白质的可编程自组装
+
+主要成果：Denovo design of protein logic gates(**Science, 2020**); Programmable protein circuit design(**Cell, 2021**)
+
+Homepage: https://www.westlake.edu.cn/academics/School_of_Life_Science/Our_Faculty/202206/t20220614_20904.shtml
+
+### 上海交通大学
+
+#### ~~毛亚飞~~
+
+主要方向：基因组组装和结构变异鉴定；比较和群体基因组分析；进化、群体遗传、系统发育
+
+主要成果：A high-quality bonobo genome refines the analysis of hominid evolution(**Nature, 2021**)
+
+Homepage: https://www.yafmao.org/
+
+### 浙江大学
+
+#### ~~朱艳芬~~
+
+主要方向：结合多组学数据研究疾病基因组变异相关转录调控；环状DNA的作用机制研究与应用
+
+主要成果：Oncogenic extrachromosomal DNA functions as mobile enhancers to globally amplify chromosomal transcription(**Cancer Cell, 2021**)
+
+Homepage: https://person.zju.edu.cn/yanfenzhu
+
+### 深圳湾实验室
+
+#### ~~李磊（导师：[李蔚](#李蔚)）~~
+
+主要方向：1）开发新的生物信息学方法和平台分析肿瘤等复杂疾病关联位点；2）肿瘤易感，发生发展和转移的机制研究；3）单细胞测序技术中数据处理和分析算法的开发
+
+主要成果： An atlas of alternative polyadenylation quantitative trait loci contributing to complex trait and disease heritability(**Nature Genetics, 2021)**
+
+Homepage: http://bioinfo.szbl.ac.cn/index.html
